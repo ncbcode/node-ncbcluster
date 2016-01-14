@@ -1,0 +1,28 @@
+{
+  "name": "node-ncbcluster",
+  "version": "1.0.0",
+  "description": "Classes to help some clustering tasks.",
+  "main": "./lib/cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncbcode/node-ncbcluster.git"
+  },
+  "keywords": [
+    "cluster",
+    "process",
+    "master",
+    "worker"
+  ],
+  "author": "Marcelo Barros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncbcode/node-ncbcluster/issues"
+  },
+  "homepage": "https://github.com/ncbcode/node-ncbcluster#readme",
+  "dependencies": {
+    "death": "^1.0.0"
+  }
+}
